@@ -1,0 +1,205 @@
+.content-wrapper, .right-side {
+  min-height: 100%;
+  background-color: #d9d9d9 !important;
+  min-height: 6000px !important;
+  */z-index: 800;
+}
+
+#title {
+font-size: 20px;
+line-height: 50px;
+text-align: center;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 300;
+color: #eee;
+font-style: bold;
+}
+
+.logo {
+position: absolute;
+left: 228px;
+right: 100px;
+z-index: 999999;
+width: auto !important;
+background-color: initial !important;
+}
+
+.skin-blue .main-header .navbar .nav>li>a {
+color: #eee;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle {
+color: #eee;
+}
+
+.box-primary>.box-header {
+background-color: #224f77  !important;
+}
+
+.main-sidebar {
+background-color: #224f77  !important;
+}
+
+
+.sor_koax {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.sor_koax label {
+display: none;
+}
+
+.sor_koax .shiny-input-container {
+width: initial !important;
+}
+
+
+
+
+.skin-blue .sidebar a {
+color: #d9d9d9;
+}
+.skin-blue .treeview-menu>li>a {
+color: #d9d9d9;
+}
+
+.fa-angle-double-right:before,
+.fa-angle-left:before {
+content: "";
+}
+
+.sidebar > li {
+display: inline-block;
+margin-left: 10px;
+margin-top: 10px;
+}
+
+.sidebar-menu {
+list-style: none;
+margin: 0;
+padding: 0;
+margin-bottom: 250px;
+}
+
+.cimke {
+font-weight: bold;
+margin-left: 20px;
+}
+
+.selectize-input {
+box-shadow: 5px 5px 5px lightgrey;
+background:red;
+}
+
+.box {
+box-shadow: 5px 5px 5px lightgrey;
+}
+
+#friss_kivit  {
+box-shadow: 5px 5px 5px lightgrey;
+color: #333;
+background-color: #eee;
+border-color: #b3b3b3;
+}
+
+#friss_bev_havi {
+box-shadow: 5px 5px 5px lightgrey;
+color: #333;
+background-color: #eee;
+border-color: #b3b3b3;
+}
+
+#friss_bev_napi {
+box-shadow: 5px 5px 5px lightgrey;
+color: #333;
+background-color: #eee;
+border-color: #b3b3b3;
+}
+
+.box-title {
+color: #eee;
+}
+
+.navbar {
+background-color: #224f77  !important;
+}
+
+#indulasra_var {
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 20px;
+position:absolute;
+left: 400px;
+top: 83px;
+color: red;
+}
+
+.szerver_info {
+width: 250px;
+height: 100px;
+color: #eee;
+background: transparent;
+border-color: #2d862d;
+border: 0.5px solid #eee;
+margin-left: 20px;
+}
+
+.szerver_info ul {
+margin-top: 15px;
+}
+
+.content {
+margin: 0 10px;
+
+}
+
+#szerver_info_title {
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 20px;
+color: #eee;
+}
+
+.box.box-primary {
+border-top-color: #224f77;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+color: #555;
+cursor: default;
+background-color: #fff;
+border: 1px solid #ddd;
+border-bottom-color: rgb(221, 221, 221);
+border-bottom-color: #555;
+border-color: #224f77;
+}
+
+.nav-tabs > li > a {
+margin-right: 2px;
+line-height: 1.42857143;
+color: #555;
+border: 1px solid transparent;
+border-top-color: transparent;
+border-right-color: transparent;
+border-bottom-color: transparent;
+border-left-color: transparent;
+border-radius: 4px 4px 0 0;
+border-color: #555;
+background-color: #e6e6e6;
+}
+
+.cim_tipus{
+font-size: 16px;
+line-height: 50px;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 300;
+color: #eee;
+font-style: bold;
+border-color: #224f77;
+background-color: #224f77;
+border-radius: 4px 4px 0 0;
+}
+
+.cim_tipus_text {
+margin: 0 0 10px 10px;
+}
+                 
